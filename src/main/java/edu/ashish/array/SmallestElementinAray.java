@@ -1,4 +1,4 @@
-package edu.ashish;
+package edu.ashish.array;
 
 /**
  * Created by abha51 on 10/4/2017.
